@@ -12,5 +12,8 @@ public class Main {
         System.out.println("pr2");
         System.out.println("pr2");
         System.out.println("pr2");
+        System.out.println("feature1");
+        System.out.println("feature1");
+        System.out.println("feature1");
     }
 }
