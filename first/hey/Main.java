@@ -8,5 +8,6 @@ public class Main {
         System.out.println("hej");
 
         System.out.println("testing again on master");
+        System.out.println("master");
     }
 }
