@@ -10,8 +10,6 @@ public class Main {
         System.out.println("testing again on master");
 
         System.out.println("pr2");
-        System.out.println("pr2");
-        System.out.println("pr2");
         System.out.println("master");
     }
 }
