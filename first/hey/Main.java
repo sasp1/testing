@@ -15,5 +15,7 @@ public class Main {
         System.out.println("feature1");
         System.out.println("feature1");
         System.out.println("feature1");
+
+        System.out.println("master");
     }
 }
